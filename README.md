@@ -7,7 +7,8 @@ Welcome to my GitHub profile! I'm passionate about solving problems with creativ
 I've been working with Data since 2016 and directly with Data Engineering since 2021. 
 I'm a big fan of the DevOps culture and I always seek to implement object-oriented design in the solutions I create, aiming to reduce maintenance efforts and accelerate development.
 
-🛠️ Technical Skills
+🛠️ Technical Skills:
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 

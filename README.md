@@ -1,11 +1,16 @@
-Hi there! 👋 I'm Igor Patrocinio
-🚀 Data Engineer | ![BrazilGIF](https://github.com/igpatrocinio/igpatrocinio/assets/105254279/3fd6f60b-e054-434f-9a76-ef3ddbd192bf)
- Brazilian
+Hi there! 👋 I'm Igor Patrocinio! 
+🚀 Data Engineer | 🇧🇷 Brazilian
 
-Welcome to my GitHub profile! I'm passionate about leveraging data to drive insights and innovation. With a strong foundation in Python, SQL, and cloud technologies, I thrive in crafting robust data solutions that empower businesses to make informed decisions.
+Father of Olívia 👧 and Sheik 🐶
+
+Welcome to my GitHub profile! I'm passionate about solving problems with creative solutions.
+I've been working with Data since 2016 and directly with Data Engineering since 2021. 
+I'm a big fan of the DevOps culture and I always seek to implement object-oriented design in the solutions I create, aiming to reduce maintenance efforts and accelerate development.
 
 🛠️ Technical Skills
-Languages: Python, SQL
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+
 Frameworks & Tools: Apache Spark, Linux
 Cloud Platforms: AWS (Amazon Web Services), GCP (Google Cloud Platform)
 Databases: Snowflake

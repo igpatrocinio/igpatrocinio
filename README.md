@@ -9,7 +9,7 @@ I'm a big fan of the DevOps culture and I always seek to implement object-orient
 
 🛠️ Technical Skills:
 
-![Naruto](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Naruto](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-29b5e8?style=for-the-badge&logo=snowflake&logoColor=ffffff)
 
 
 Frameworks & Tools: Apache Spark, Linux

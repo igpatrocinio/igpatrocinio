@@ -9,7 +9,17 @@ I'm a big fan of the DevOps culture and I always seek to implement object-orient
 
 🛠️ Technical Skills:
 
-![Naruto](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-29b5e8?style=for-the-badge&logo=snowflake&logoColor=ffffff)
+OS:
+![Windows](https://img.shields.io/badge/Windows-0078D6?plastic&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=plastice&logo=macos&logoColor=F0F0F0)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=plastic&logo=debian&logoColor=white)
+
+
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
+![SQL](https://img.shields.io/badge/SQL-fffff?style=plastic&logo=amazondocumentdb&logoColor=ffffff)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) 
+![Snowflake](https://img.shields.io/badge/snowflake-29b5e8?style=plastic&logo=snowflake&logoColor=ffffff)
 
 
 Frameworks & Tools: Apache Spark, Linux

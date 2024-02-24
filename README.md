@@ -4,7 +4,7 @@ Hi there! 👋 I'm Igor Patrocinio!
 Father of Olívia 👧 and Sheik 🐶
 
 Welcome to my GitHub profile! I'm passionate about solving problems with creative solutions.
-I've been working with Data since 2016 and directly with Data Engineering since 2021. 
+I've been working with Data since 2016 and as Data Engineer since 2021. 
 I'm a big fan of the DevOps culture and I always seek to implement object-oriented design in the solutions I create, aiming to reduce maintenance efforts and accelerate development.
 
 🛠️ Technical Skills:
@@ -14,9 +14,7 @@ I'm a big fan of the DevOps culture and I always seek to implement object-orient
 
 Frameworks & Tools: Apache Spark, Linux
 Cloud Platforms: AWS (Amazon Web Services), GCP (Google Cloud Platform)
-Databases: Snowflake
-📚 About Me
-I'm an enthusiastic learner who is always eager to explore new technologies and methodologies in the data engineering space. Whether it's optimizing data pipelines for efficiency or designing scalable architectures in the cloud, I'm committed to delivering high-quality solutions that meet the unique needs of each project.
+Databases: Snowflake BigQuery
 
 🌱 Currently Learning
 I'm constantly expanding my skill set and currently diving deeper into advanced Spark optimizations and cloud-native data architectures. Additionally, I'm exploring data streaming technologies to build real-time analytics pipelines.

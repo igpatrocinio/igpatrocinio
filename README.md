@@ -29,7 +29,9 @@ Data Processing and Analytics:
 ![BigQuery](https://img.shields.io/badge/Big_Query-498AFA?style=plastic&logo=googlebigquery&logoColor=white)
 
 Orchestration:
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=plastic&logo=Apache%20Airflow&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-886DC4?style=plastic&logo=Apache%20Airflow&logoColor=white)
+![StepFunctions](https://img.shields.io/badge/AWS_Step_Functions-ED3E7D?style=plastic&logo=amazon-aws&logoColor=white)
+![Scheduler](https://img.shields.io/badge/GCP_Cloud_Scheduler-1589E9?style=plastic&logo=clockify&logoColor=white)
 
 Data Integration:
 ![Alteryx](https://img.shields.io/badge/Alteryx-0078C0?style=plastic&logo=alteryx&logoColor=white)

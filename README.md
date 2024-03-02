@@ -64,5 +64,5 @@ OS:
 
 ## 📫 Let's Connect
 
-Here's my [LinkedIn](https://www.linkedin.com/in/igor-patrocinio/), if you're interested in collaborating on exciting data projects or simply want to connect.
+Here's my [LinkedIn](https://www.linkedin.com/in/igor-patrocinio/) if you're interested in collaborating on exciting data projects or simply want to connect.
 

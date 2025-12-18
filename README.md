@@ -4,11 +4,7 @@
 
 🚀 Data Engineer | 🇧🇷 Brazilian
 
-Father of Olívia 👧 and Sheik 🐶
-
-I'm passionate about solving problems with creative solutions. I have been working with Data since 2016 and as Data Engineer since 2021. 
-
-I always seek to implement object-oriented design in the solutions I create, aiming to reduce maintenance efforts and speed up development.
+Father of Olívia 👧
 
 ## 🛠️ Stack:
 
